@@ -6,6 +6,7 @@ import Background from './components/Background';
 import Hero from './components/Hero';
 import Introduction from './components/Introduction';
 import Timeline from './components/Timeline';
+import Coursework from './components/Coursework';
 import SkillsArchitecture from './components/SkillsArchitecture';
 import Projects from './components/Projects';
 import Philosophy from './components/Philosophy';
@@ -27,6 +28,7 @@ export default function App() {
         <Hero />
         <Introduction />
         <Timeline />
+        <Coursework />
         <SkillsArchitecture />
         <Projects />
         <Philosophy />
